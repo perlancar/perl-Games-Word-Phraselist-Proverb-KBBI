@@ -28,8 +28,8 @@ sub new {
 =head1 DESCRIPTION
 
 C<< Games::Word::Phraselist::Proverb::KBBI >> subclasses L<<
-Games::Word::Phraselist >>, giving you proverbs preloaded with the Indonesian
-words from Kamus Besar Bahasa Indonesia (currently the third edition, 2001).
+Games::Word::Phraselist >>, giving you phrases of Indonesian proverbs from Kamus
+Besar Bahasa Indonesia (currently the third edition, 2001).
 
 Because the data source is currently not fully cleansed (it is from earlier
 effort: https://github.com/sharyanto/stardict ), I removed some entries.
