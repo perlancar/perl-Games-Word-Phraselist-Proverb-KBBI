@@ -20,9 +20,9 @@ sub new {
 =head1 SYNOPSIS
 
   use Games::Word::Phraselist::Proverb::KBBI;
-  my $wl = Games::Word::Phraselist::Proverb::KBBI->new;
-  my $word = $wl->random_phrase;
-  print "We have a phrase." if $wl->is_phrase($word);
+  my $pl = Games::Word::Phraselist::Proverb::KBBI->new;
+  my $phrase = $pl->random_phrase;
+  print "We have a phrase." if $pl->is_phrase($phrase);
 
 
 =head1 DESCRIPTION
