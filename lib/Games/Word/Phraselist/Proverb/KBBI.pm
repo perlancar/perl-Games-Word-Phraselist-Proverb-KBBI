@@ -37,7 +37,7 @@ effort: https://github.com/sharyanto/stardict ), I removed some entries.
 Some stats:
 
  Number of phrases: 1714
- Shortest phrase length: 28 (including whitespace)
+ Shortest phrase length: 11 (including whitespace)
  Longest phrase length: 104 (including whitespace)
  Average phrase length: 31.2 characters (including whitespace)
 
