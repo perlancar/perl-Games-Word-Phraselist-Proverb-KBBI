@@ -6,11 +6,16 @@ use strict;
 use warnings;
 
 my %abbrevs = (
-    yg => "yang",
-    dl => "dalam",
-    pd => "pada",
-    spt => "seperti",
+    dl  => "dalam",
+    dng => "dengan",
+    dp  => "daripada",
+    dr  => "dari",
+    kpd => "kepada",
+    krn => "karena",
+    pd  => "pada",
     sbg => "sebagai",
+    spt => "seperti",
+    yg  => "yang",
 );
 my $abbrev_re = join "|", map {quotemeta} keys %abbrevs;
 

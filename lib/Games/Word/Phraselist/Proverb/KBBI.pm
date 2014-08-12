@@ -85,13 +85,13 @@ air cucuran atap jatuh ke pelimbahan juga
 air diminum rasa duri, nasi dimakan rasa sekam
 air jernih ikannya jinak
 air lalu kubang tohor
-air susu dibalas dng air tuba
+air susu dibalas dengan air tuba
 air tenang menghanyutkan
 akal akar berpulas tak patah
 akal tak sekali tiba
 akan dijadikan tabuh singkat, akan dijadikan genderang berlebih
 akidah disangka batu
-alah bisa krn biasa
+alah bisa karena biasa
 alah bisa tegal biasa
 alah di rumpun betung
 alah limau oleh benalu
@@ -126,7 +126,7 @@ apa yang kurang pada belida, sisik ada tulang pun ada
 api padam puntung berasap
 api padam puntung hanyut
 arang habis besi binasa
-arang itu jikalau dibasuh dng air mawar sekalipun, tiada akan putih
+arang itu jikalau dibasuh dengan air mawar sekalipun, tiada akan putih
 asal ada kecil pun pada
 asal ada sama di hati, gajah terantai boleh dilepaskan
 asal ayam pulang ke lumbung, asal itik pulang ke pelimbahan
@@ -153,25 +153,25 @@ bagai anak sepat ketohoran
 bagai anjing beranak enam
 bagai anjing melintang denai
 bagai ayam dibawa ke lampok
-bagai balam dng ketitir
+bagai balam dengan ketitir
 bagai batu jatuh ke lubuk
-bagai beliung dng asahan
+bagai beliung dengan asahan
 bagai belut digetil ekor
 bagai belut diregang
 bagai beruk kena ipuh
 bagai bersesah kain dapat
 bagai bertanak di kuali
 bagai berumah di tepi tebing
-bagai bulan dng matahari
+bagai bulan dengan matahari
 bagai bulan kesiangan
 bagai buntal kembung
 bagai bunyi cempedak jatuh
 bagai bunyi siamang kenyang
-bagai dawat dng kertas
+bagai dawat dengan kertas
 bagai dekan di bawah pangkal buluh
 bagai denai gajah lalu
 bagai dientak alu luncung
-bagai dulang dng tudung saji
+bagai dulang dengan tudung saji
 bagai duri dalam daging
 bagai empedu lekat di hati
 bagai gadis jolong bersubang
@@ -183,8 +183,8 @@ bagai getah dibawa ke semak
 bagai guna-guna alu sesudah menumbuk dicampakkan
 bagai ikan dalam keroncong
 bagai ikan kena tuba
-bagai ilak bercerai dng benang
-bagai inai dng kuku
+bagai ilak bercerai dengan benang
+bagai inai dengan kuku
 bagai itik pulang petang
 bagai jampuk kesiangan hari
 bagai jawi ditarik keluan
@@ -199,8 +199,8 @@ bagai kena santung pelalai
 bagai kinantan hilang taji
 bagai kucing dibawakan lidi
 bagai kucing lepas senja
-bagai kuku dng daging
-bagai kuku dng isi
+bagai kuku dengan daging
+bagai kuku dengan isi
 bagai langau di ekor gajah
 bagai melihat asam
 bagai membakar tunam basah
@@ -239,7 +239,7 @@ bajak patah banting terambau
 bajak selalu di tanah yang lembut
 bajak sudah terdorong ke bancah
 baji dahan membelah dahan
-baju indah dr balai, tiba di rumah menyarungkan
+baju indah dari balai, tiba di rumah menyarungkan
 bak ilmu padi, kian berisi kian runduk
 bak mandi di air kiambang, pelak lepas gatal pun datang
 bak menanti orang dahulu, bak melalah orang kudian
@@ -287,7 +287,7 @@ berapa berat mata memandang, berat juga bahu memikul
 berarak ke tebing
 berat sama dipikul, ringan sama dijinjing
 berat sepikul, ringan sejinjing
-berbilang dr esa, mengaji dr alif
+berbilang dari esa, mengaji dari alif
 berbuat jahat jangan sekali, terbawa cemar segala ahli
 bercerai sudah, talak tidak
 berdiang di abu dingin
@@ -297,7 +297,7 @@ berendam se sayak air, berpaut sejengkal tali
 bergantung di ujung kuku
 bergantung pada rambut sehelai
 berguru kepalang ajar, bagai bunga kembang tak jadi
-berhakim kpd beruk
+berhakim kepada beruk
 berhati baja, berurat kawat
 beriak tanda tak dalam, berguncang tanda tak penuh
 berjalan peliharakan kaki, berkata peliharakan lidah
@@ -305,7 +305,7 @@ berjalan sampai ke batas, berlayar sampai ke pulau
 berjalan selangkah, melihat surut
 berjalan selangkah menghadap surut, berkata sepatah dipikirkan
 berkata peliharakan lidah
-berkata-kata dng lutut
+berkata-kata dengan lutut
 berkepanjangan bagai agam
 berkeras tidak berkeris
 berlayar sambil memapan
@@ -321,21 +321,21 @@ bersandar di lemang hangat
 berserah kabil
 bersesapan belukar
 bersikap masa bodoh
-bersua beliung dng sangkal
+bersua beliung dengan sangkal
 bersuluh menjemput api
 bersurih bak sepasin, berjejak bak berkik, berbau bak embacang
 bertali boleh dieret, bertampuk boleh dijinjing
 bertanam tebu di bibir
 berteduh di bawah betung
-bertemu beliung dng ruyung
-bertemu muka dng tedung
-bertemu mura dng tedung
-bertemu ruas dng buku
-bertemu teras dng beliung
+bertemu beliung dengan ruyung
+bertemu muka dengan tedung
+bertemu mura dengan tedung
+bertemu ruas dengan buku
+bertemu teras dengan beliung
 bertenun sampai ke bunjai nya
 bertepuk sebelah tangan
 bertiraikan banir
-bertukar beruk dng cigak
+bertukar beruk dengan cigak
 bertunggul ditarah, kesat diampelas
 berarak tidak berlari
 bergantung pada tali rapuh
@@ -354,7 +354,7 @@ berketuk di luar sangkar, bertanam di luar pagar
 berkocak tanda tak penuh
 berlaki anak semang
 berlayar atas angin
-berlayar bernakhoda, berjalan dng yang tua
+berlayar bernakhoda, berjalan dengan yang tua
 berlidah di lidah orang
 berlurah di balik pendakian
 bernapas ke luar badan
@@ -370,9 +370,9 @@ besar berudu di kubangan, besar buaya di lautan
 besar kapal besar gelombang
 besar kayu besar bahan nya
 besar kayu besar dahan nya
-besar pasak dr tiang
+besar pasak dari tiang
 besar periuk besar kerak
-besar senggulung dp beban, besar pasak dp tiang
+besar senggulung daripada beban, besar pasak daripada tiang
 betung ditanam, aur tumbuh
 becermin di air keruh
 berakit-rakit ke hulu, berenang-renang ke tepian
@@ -413,7 +413,7 @@ bumi mana yang tak kena hujan
 bumi tidak selebar daun kelor
 bungkuk kail hendak mengena
 bungkuk sejengkal tidak terkedang
-bungkus tulang dng daun talas
+bungkus tulang dengan daun talas
 buntat hendak jadi kemala
 bunyi perempuan di air
 buruk muka cermin dibelah
@@ -426,7 +426,7 @@ buta kehilangan
 cacing hendak menjadi naga
 cacing menjadi ular naga
 cakap berdegar-degar, tumit diketing
-campak bunga dibalas dng campak tahi
+campak bunga dibalas dengan campak tahi
 cangkat sama didaki lurah sama dituruni
 cari umbut kena buku
 carik-carik bulu ayam lama-lama bercantum juga
@@ -445,7 +445,7 @@ dagu nya lebah bergantung
 dahan pembaji batang
 dahi kiliran taji
 dahi sehari bulan
-dahulu bajak dp jawi
+dahulu bajak daripada jawi
 dahulu sorak kemudian tohok
 dahulu timah, sekarang besi
 dalam laut boleh diajuk, dalam hati siapa tahu
@@ -490,7 +490,7 @@ diberi kuku hendak mencengkam
 diberi sejari hendak setelempap
 diberi sejengkal hendak sehasta diberi sehasta hendak sedepa
 dibilang genap, dipagar ganjil
-dibuat krn allah, menjadi murka allah
+dibuat karena allah, menjadi murka allah
 dibujuk ia menangis, ditendang ia tertawa
 dicoba-coba bertanam mumbang, moga-moga tumbuh kelapa
 dientak alu luncung
@@ -515,12 +515,12 @@ dikerkah dia menampar pipi, dibakar dia melilit puntung
 dipanggang tiada angus
 ditindih yang berat, dililit yang panjang
 dalam rumah membuat rumah
-dng sesendok madu dapat lebih banyak ditangkap serangga dp dng cuka sesendok
-dp cempedak lebih baik nangka, dp tidak, lebih baik ada
-dp hidup bercermin bangkai lebih baik mati berkalang tanah
-dr jung turun ke sampan
-dr lecah lari ke duri
-dr semak ke belukar
+dengan sesendok madu dapat lebih banyak ditangkap serangga daripada dengan cuka sesendok
+daripada cempedak lebih baik nangka, daripada tidak, lebih baik ada
+daripada hidup bercermin bangkai lebih baik mati berkalang tanah
+dari jung turun ke sampan
+dari lecah lari ke duri
+dari semak ke belukar
 duduk berkisar, tegak berpaling
 duduk di ambung-ambung taji
 duduk meraut ranjau, tegak meninjau jarak
@@ -537,13 +537,13 @@ enggan seribu daya, mau sepatah kata
 endap di balik lalang sehelai
 esa hilang dua terbilang
 esa hilang, dua terbilang
-gadai terdorong kpd Cina
+gadai terdorong kepada Cina
 gaharu dibakar kemenyan berbau
 gajah lalu dibeli, rusa tidak terbeli
-gajah mati krn gadingnya
+gajah mati karena gadingnya
 gajah mati tulang setimbun
 gajah seekor gembala dua
-galas terdorong kpd Cina
+galas terdorong kepada Cina
 gali lubang tutup lubang
 garam di kulumnya tak hancur
 garam di laut, asam di gunung bertemu dalam belanga juga
@@ -557,7 +557,7 @@ genting menanti putus, biang menanti tembuk
 genting putus, biang menanti tembuk
 geruh tak mencium bau
 getah terbangkit kuaran tiba
-gigi dng lidah adakalanya bergigit juga
+gigi dengan lidah adakalanya bergigit juga
 gigi tanggal rawan murah
 gila di abun-abun
 gombang di lebuh
@@ -567,7 +567,7 @@ guru kencing berdiri, murid kencing berlari
 habis beralur maka beralu-alu
 habis kapak berganti beliung
 habis manis sepah dibuang
-habis miang krn bergeser
+habis miang karena bergeser
 habis pati ampas dibuang
 habis perkara, nasi sudah menjadi bubur
 habis umpan kerong tak dapat
@@ -576,8 +576,8 @@ hangat hangat tahi ayam
 hangus tiada berapi, karam tiada berair
 hanyut dipintasi, lulus diselami, hilang dicari
 harapan tak putus sampai jerat tersentak rantus
-harimau ditakuti krn giginya
-harimau mati krn belangnya
+harimau ditakuti karena giginya
+harimau mati karena belangnya
 harimau mati meninggalkan belang, gajah mati meninggalkan gading, orang mati meninggalkan nama
 harimau mati meninggalkan belang, gajah mati meninggalkan gading
 harimau mengaum takkan menangkap
@@ -604,17 +604,17 @@ hidup di ujung gurung orang
 hidup dikandung adat, mati dikandung tanah
 hidup dua muara
 hidup kayu berbuah, hidup manusia biar berjasa
-hidup sandar-menyandar umpama aur dng tebing
+hidup sandar-menyandar umpama aur dengan tebing
 hidup segan mati tak hendak
 hidup segan, mati tak embuh
 hidup seperti musang
-hidup tidak krn doa, mati tidak krn sumpah
+hidup tidak karena doa, mati tidak karena sumpah
 hilang di mata di hati jangan
 hilang dicari, terapung direnangi, terbenam diselami
-hilang geli krn gelitik
+hilang geli karena gelitik
 hilang kabus, teduh hujan
 hilang kilat dalam kilau
-hilang rona krn penyakit, hilang bangsa tidak beruang
+hilang rona karena penyakit, hilang bangsa tidak beruang
 hilang satu sepuluh gantinya
 hilang sepuh tampak senam
 hilang tak bercari, lulus tak berselami
@@ -628,7 +628,7 @@ hitam, hitam tahi minyak dimakan juga, putih-putih ampas kelapa dibuang
 hitam bagai pantat belanga
 hitam di atas putih
 hitam dikatakan putih, putih dikatakan hitam
-hitam mata itu mana boleh bercerai dng putihnya
+hitam mata itu mana boleh bercerai dengan putihnya
 hitam sebagai kuali
 hitam seperti dawat
 hitam tahan tempa, putih tahan sesah
@@ -658,7 +658,7 @@ ikut hati mati, ikut mata buta
 ikut hati mati, ikut rasa binasa
 ilmu padi, makin berisi makin runduk
 inai tertepung kuku tanggal
-indah kabar dr rupa
+indah kabar dari rupa
 ingat sebelum kena, berhemat sebelum habis
 ingin buah manggis hutan, masak ranum tergantung tinggi
 intan disangka batu kelikir
@@ -684,7 +684,7 @@ jauh berjalan banyak dilihat, lama hidup banyak dirasa
 jauh berjalan banyak dilihat
 jauh di mata di hati jangan
 jauh di mata, dekat di hati
-jauh panggang dr api
+jauh panggang dari api
 jelatang di hulu air
 jerat halus kelindan sutra
 jerat semata bunda kandung
@@ -716,14 +716,14 @@ kalah jadi abu, menang jadi arang
 kalau bangkai galikan kuburnya, kalau hidup sediakan buaiannya
 kalau getah meleleh, kalau daun melayang
 kalau guru makan berdiri, maka murid makan berlari
-kalau kena tampar, biar dng tangan yang pakai cincin, kalau kena tendang, biar dng kaki yang pakai kasut
+kalau kena tampar, biar dengan tangan yang pakai cincin, kalau kena tendang, biar dengan kaki yang pakai kasut
 kalau kubuka tempayan budu, baharu tahu
 kalau laba bercikun-cikun, buruk diberi tahu orang
 kalau menampi jangan tumpah padinya
 kalau pandai menggulai, badar jadi tenggiri
 kalau pandai menggulai badar pun menjadi tenggiri
 kalau pandai meniti buih, selamat badan sampai ke seberang
-kalau sorok lebih dahulu dp tokok, tidak mati babi
+kalau sorok lebih dahulu daripada tokok, tidak mati babi
 kalau tak ada angin, takkan pokok bergoyang
 kalau takut dilimbur pasang, jangan berumah di tepi pantai
 kapak menelan beliung
@@ -747,7 +747,7 @@ ke mana angin yang deras ke situ condongnya
 ke mana condong, ke mana rebah
 ke mana dialih, lesung berdedak juga
 ke mana kelok lilin, ke sana kelok loyang
-ke mana tumpah hujan dr bubungan, kalau tidak ke cucuran atap
+ke mana tumpah hujan dari bubungan, kalau tidak ke cucuran atap
 ke mudik tentu hulunya, ke hilir tentu muaranya
 ke sawah berlumpur ke ladang berarang
 ke sawah tidak berlubuk, ke ladang tidak berarang
@@ -781,7 +781,7 @@ kerbau runcing tanduk
 kerbau seratus dapat digembalakan, manusia seorang tiada terkawal
 kerosok ular di rumpun bambu
 kesat daun pimping
-kesturi mati krn baunya
+kesturi mati karena baunya
 ketahuan hina mulianya
 ketam menyuruhkan anaknya berjalan betul
 kicang-kecoh ciak
@@ -791,14 +791,14 @@ kita di pangkal merawal dia di ujung merawal
 kita semua mati, tetapi kubur masing-masing
 kodok dapat bunga sekuntum
 koyak tak berbunyi
-krn mata buta, krn hati mati
-krn mulut bisa binasa
-krn nila setitik, rusak susu sebelanga
-krn pijat-pijat mati tuma
-kuat burung krn sayap
-kuat ketam krn sepit
-kuat ketam krn sepit, kuat burung krn sayap, kuat ikan krn radai
-kuat sepit krn kempa
+karena mata buta, karena hati mati
+karena mulut bisa binasa
+karena nila setitik, rusak susu sebelanga
+karena pijat-pijat mati tuma
+kuat burung karena sayap
+kuat ketam karena sepit
+kuat ketam karena sepit, kuat burung karena sayap, kuat ikan karena radai
+kuat sepit karena kempa
 kucing pergi tikus menari
 kuda pelejang bukit
 kudis menjadi tokak
@@ -832,7 +832,7 @@ laksana manau, seribu kali embat haram tak patah
 laksana mestika gamat
 lalu penjahit, lalu kelindan
 lalu penjahit lalu kelindan
-lancar kaji krn diulang, pasar jalan krn diturut
+lancar kaji karena diulang, pasar jalan karena diturut
 langkas buah pepaya
 lapuk oleh kain sehelai
 laut budi tepian akal
@@ -841,8 +841,8 @@ laut ditimba akan kering
 laut mana yang tak berombak, bumi mana yang tak ditimpa hujan
 layar menimpa tiang
 layang-layang putus talinya
-lebih baik mati berkalang tanah dp hidup bercermin bangkai
-lebih berharga mutiara sebutir dp pasir sepantai
+lebih baik mati berkalang tanah daripada hidup bercermin bangkai
+lebih berharga mutiara sebutir daripada pasir sepantai
 lemak manis jangan ditelan, pahit jangan dimuntahkan
 lemak penyelar daging
 lembut seperti buah bemban
@@ -850,11 +850,11 @@ lempar batu sembunyi tangan
 lengan bagai lilin dituang
 lengan seperti sulur bakung
 lepas bantal berganti tikar
-lepas dr mulut harimau jatuh ke mulut buaya
+lepas dari mulut harimau jatuh ke mulut buaya
 lesung mencari alu
-lewat dr manis, masam, lewat dr harum, busuk
+lewat dari manis, masam, lewat dari harum, busuk
 licin bagai belut
-licin krn minyak berminta, elok krn kain berselang
+licin karena minyak berminta, elok karena kain berselang
 lidah tak bertulang
 lihat anak pandang menantu
 lihat anak, pandang menantu
@@ -867,7 +867,7 @@ lulus jarum lulus kelindan
 lulus tidak berselam, hilang tidak bercari
 lunak disudu, keras ditakik
 lunak disudu, keras menekik
-lunak gigi dr lidah
+lunak gigi dari lidah
 lupa kacang akan kulitnya
 lupak jadi perigi
 lurus bagai piarit
@@ -909,7 +909,7 @@ masak buah rumbia
 masak di luar mentah di dalam
 masih berbau pupuk jeringau
 masin mulutnya
-masuk dr kuping kiri keluar lewat kuping kanan
+masuk dari kuping kiri keluar lewat kuping kanan
 masuk kandang kambing mengembik, masuk kandang kerbau menguak
 masuk ke telinga kanan, keluar ke telinga kiri
 masuk lima keluar sepuluh
@@ -918,7 +918,7 @@ masuk sarang harimau
 masuk tak genap, keluar tak ganjil
 masuk tiga, keluar empat
 mata tidur, bantal terjaga
-matahari itu bolehkah ditutup dng nyiru
+matahari itu bolehkah ditutup dengan nyiru
 mati anak berkalang bapak, mati bapak berkalang anak
 mati ayam, mati tungau
 mati berkafan cindai
@@ -926,10 +926,10 @@ mati dicatuk katak
 mati dikandung tanah
 mati enau tinggal di rimba
 mati gajah tidak dapat belalainya, mati harimau tidak dapat belangnya
-mati kuang krn bunyi
-mati kuau krn bunyinya
+mati kuang karena bunyi
+mati kuau karena bunyinya
 mati puyuh hendakkan ekor
-mati rusa krn tanduknya
+mati rusa karena tanduknya
 mati se ladang
 mati tidak akan menyesal, luka tidak akan menyiuk
 mati-mati mandi biar basah
@@ -946,18 +946,18 @@ melonjak badar, melonjak gerundang
 melukut di tepi gantang
 melukut tinggal sekam melayang
 memakan habis-habis, menyuruh hilang-hilang
-memakuk dng punggung lading
+memakuk dengan punggung lading
 memalit rembes menampung titik
 memancing dalam belanga
 memasang pelita tengah hari
 memasukkan minyak tanah
 membangkit batang terendam
-membasuh najis dng malu
+membasuh najis dengan malu
 membawakan cupak ke negeri orang
 membekali budak lari
 membeli kerbau bertuntun
 membeli kerbau di padang
-memberi lauk kpd orang membantai
+memberi lauk kepada orang membantai
 membesarkan kerak nasi
 membuang bunga ke jirat
 membuang garam ke laut
@@ -965,7 +965,7 @@ membuat titian berakuk
 membuka tambo lama
 memegang besi panas
 memikul di bahu, menjunjung di kepala
-meminta tanduk kpd kuda
+meminta tanduk kepada kuda
 memperlapang kandang musang, mempersempit kandang ayam
 mempertinggi semangat anjing
 membakar tak hangus direndam tak basah
@@ -993,7 +993,7 @@ mencencang berlandasan, melompat bersetumpu
 mencencang lauk tengah helat
 mencencangkan lading patah
 mencit seekor, penggada seratus
-mencungkil kuman dng alu
+mencungkil kuman dengan alu
 mendapat badai tertimbakan
 mendapat panjang hidung
 mendapat pisang berkubak
@@ -1015,7 +1015,7 @@ mengebat erat-erat, buhul mati-mati
 mengembalikan manikam ke dalam cembulnya
 mengembang ketiak amis
 menggantang anak ayam
-menggaut laba dng siku
+menggaut laba dengan siku
 menggeriak bagai anak nangui
 menggolek batang terguling
 menggunting dalam lipatan
@@ -1042,20 +1042,20 @@ menjilat air liur
 menjilat keluan bagai kerbau
 menjilat ludah
 menjolok sarang tabuhan
-menjual bedil kpd lawan
+menjual bedil kepada lawan
 menjual petai hampa
 menjunjung sangkak ayam
 menohok kawan seiring, menggunting dalam lipatan
 mensiang yang baru dicari, kampil 'lah sudah dahulu
 menumbuk di lesung, bertanak di periuk
 menumbuk di periuk, bertanak di lesung
-menunjukkan ilmu kpd orang menetak
+menunjukkan ilmu kepada orang menetak
 menyandang lemang hangat orang
 menyandang lukah tiga
 menyenduk kuah dalam pengat
 menyimpan embacang busuk
 menyinggung mata bisul orang
-menyisip padi dng ilalang
+menyisip padi dengan ilalang
 menconteng arang di muka
 mendabih menampung darah
 mendapat sama berlaba, kehilangan sama merugi
@@ -1087,7 +1087,7 @@ menambat tidak bertali
 menampalkan kersik ke buluh
 menangguk di air keruh
 menanak semua berasnya
-menangis daun bangun-bangun hendak sama dng hilir air
+menangis daun bangun-bangun hendak sama dengan hilir air
 menempong menuju jih
 menebang menuju pangkal, melanting menuju tampuk
 menengadah ke langit hijau
@@ -1095,7 +1095,7 @@ menengadah membilang layar, menangkup membilang lantai
 mengail berumpan, berkata bertipuan
 mengail dalam belanga, menggunting dalam lipatan
 mengais dulu maka makan
-mengaut laba dng siku
+mengaut laba dengan siku
 mengebat erat-erat, membuhul mati-mati
 mengegungkan gung pesuk
 mengepit kepala harimau
@@ -1107,9 +1107,9 @@ menyisih bagai antah
 merantau di sudut dapur, merantau ke ujung bendul
 merebus tak empuk
 miang tergeser kena miang, terlanggar kena rabasnya
-minta dedak kpd orang mengubik
+minta dedak kepada orang mengubik
 minta sisik pada limbat
-minta tulang kpd lintah
+minta tulang kepada lintah
 minum darah orang
 minum serasa duri, makan serasa lilin, tidur tak lena, mandi tak basah
 minyak habis sambal tak enak
@@ -1121,7 +1121,7 @@ mudik menyongsong arus, hilir menyongsong pasang
 mujur Pak Belang
 mujur sepanjang hari malang sekejap mata
 mujur tidak boleh diraih, malang tidak boleh ditolak
-muka bagai ditampar dng kulit babi
+muka bagai ditampar dengan kulit babi
 muka licin, ekor berkedal
 mulut bagai ekor ayam diembus
 mulut bajan boleh ditutup, mulut manusia tidak
@@ -1129,7 +1129,7 @@ mulut bau madu, pantat bawa sengat
 mulut di mulut orang
 mulut kamu, harimau kamu
 mulut kapuk dapat ditutup, mulut orang tidak
-mulut manis jangan percaya, lepas dr tangan jangan diharap
+mulut manis jangan percaya, lepas dari tangan jangan diharap
 mulut manis mematahkan tulang
 mulut satu lidah bertopang
 mumbang ditebuk tupai
@@ -1171,9 +1171,9 @@ orang timpang jangan dicacat, ingat-ingat hari belakang
 orang tua diajar makan pisang
 pacet hendak menjadi ular
 padang perahu di lautan, padang hati dipikirkan
-padi dikebat dng daunnya
+padi dikebat dengan daunnya
 padi masak, jagung mengupih
-padi segenggam dng senang hati lebih baik dp padi selumbung dng bersusah hati
+padi segenggam dengan senang hati lebih baik daripada padi selumbung dengan bersusah hati
 padi sekapuk hampa, emas seperti loyang, kerbau sekandang jalang
 padi selumbung dimakan orang banyak
 pagar makan padi
@@ -1188,10 +1188,10 @@ panjang langkah singkat permintaan
 pantang kutu dicukur, pantang manusia dihinakan
 parang gabus menjadi besi
 pasang masuk muara
-pasar jalan krn diturut, lancar kaji krn diulang
+pasar jalan karena diturut, lancar kaji karena diulang
 patah batu hatinya
-patah kemudi dng bam nya
-patah kemudi dng ebamnya
+patah kemudi dengan bam nya
+patah kemudi dengan ebamnya
 patah lidah alamat kalah, patah keris alamat mati
 patah sayap bertongkat paruh
 patah selera banyak makan
@@ -1237,7 +1237,7 @@ pijat-pijat menjadi kura-kura
 pilih-pilih ruas, terpilih pada buku
 potong hidung rusak muka
 pucat seperti mayat
-pucuk diremas dng santan, urat direndam dng tengguli, lamun peria pahit juga
+pucuk diremas dengan santan, urat direndam dengan tengguli, lamun peria pahit juga
 pucuk layu disiram hujan
 pukat terlabuh, ikan tak dapat
 pukul anak sindir menantu
@@ -1259,7 +1259,7 @@ rasa tak mengapa hidung dikeluani
 rasam minyak ke minyak, rasam air ke air
 ragang gawe
 rebung tak miang, bemban pula miang
-rebung tidak jauh dr rumpun
+rebung tidak jauh dari rumpun
 redup atau panas keras
 rendah gunung tinggi harapan
 rentak sedegam, langkah sepijak
@@ -1279,7 +1279,7 @@ rupa harimau, hati tikus
 rusak anak oleh menantu
 rusak bangsa oleh laku
 rusak bawang ditimpa jambak
-rusak tapai krn ragi
+rusak tapai karena ragi
 sabung selepas hari petang
 sakit kepala panjang rambut
 sakit kepala panjang rambut, patah selera banyak makan
@@ -1303,21 +1303,21 @@ satu juga gendang berbunyi
 satu nyawa, dua badan
 satu sangkar dua burung
 sauk kering-kering, membeli habis-habis
-sawah seperempat piring, ke sawah sama dng orang
+sawah seperempat piring, ke sawah sama dengan orang
 sayap singkat, terbang hendak jauh
 sayat sebelanga juga
 sebagai anai-anai bubus
-sebagai aur dng rebung
+sebagai aur dengan rebung
 sebagai ayam diasak malam
 sebagai bisul hampir memecah
-sebagai dawat dng kertas
+sebagai dawat dengan kertas
 sebagai di rumah induk bako
 sebagai duri landak
-sebagai garam dng asam
+sebagai garam dengan asam
 sebagai kepiting batu
 sebagai kera dapat canggung
-sebagai kunyit dng kapur
-sebagai minyak dng air
+sebagai kunyit dengan kapur
+sebagai minyak dengan air
 sebagai orang mabuk gadung
 sebagai pancang diguncang arus
 sebagai petai sisa pengait
@@ -1373,10 +1373,10 @@ sepasin dapat bersiang
 sepenggalah matahari naik
 seperti katak di bawah tempurung
 serigala berbulu domba
-serigala dng anggur
+serigala dengan anggur
 sesak bagai ular tidur
 sesak berundur-undur, hendak lari malu, hendak menghambat tak lalu
-sesak undang kpd yang runcing tiada dapat bertenggang lagi
+sesak undang kepada yang runcing tiada dapat bertenggang lagi
 sesal dahulu yang bertuah, sesal kemudian yang celaka
 sesat surut, terlangkah kembali
 setali tiga uang
@@ -1384,7 +1384,7 @@ setinggi-tinggi bangau terbang, surutnya ke kubangan
 setinggi-tinggi melambung, surutnya ke tanah juga
 searah bertukar jalan
 seciap bak ayam, sedencing bak besi
-sedatar saja lurah dng bukit
+sedatar saja lurah dengan bukit
 segenggam digunungkan, setitik dilautkan
 sehina semalu
 seidas bagai benang, sebentuk bagai cincin
@@ -1397,7 +1397,7 @@ selapik seketiduran
 sepandai-pandai tupai melompat, sekali gawal juga
 setapak jangan lalu, setapak jangan surut
 setempuh lalu, sebondong surut
-seukur mata dng telinga
+seukur mata dengan telinga
 sia-sia menjaring angin, terasa ada tertangkap tidak
 sia-sia negeri alah
 sia-sia utang tumbuh
@@ -1426,35 +1426,35 @@ seperti anjing bercawat ekor
 seperti antan pencungkil duri
 seperti api dalam sekam
 seperti ayam pulang ke pautan
-seperti batang mengkudu, dahulu dng bunga
+seperti batang mengkudu, dahulu dengan bunga
 seperti belanda kesiangan
 seperti belanda minta tanah
 seperti belut pulang ke lumpur
 seperti beranak besar hidung
 seperti bertih direndang
 seperti biji saga rambat di atas talam
-seperti birah dng keladi
+seperti birah dengan keladi
 seperti birah tidak berurat
 seperti birah tumbuh di tepi lesung
 seperti bisai makan sepinggan
 seperti buah bemban masak
 seperti buah kedempung, di luar berisi di dalam kosong
-seperti bujuk lepas dr bubu
+seperti bujuk lepas dari bubu
 seperti buku gaharu
 seperti burung gagak pulang ke benua
 seperti cacing kepanasan
-seperti cincin dng permata
+seperti cincin dengan permata
 seperti ditempuh gajah lalu
 seperti elang menyongsong angin
 seperti embun di atas daun
 seperti embun di ujung rumput
 seperti gadis jolong bersubang, bujang jolong bekerja
 seperti gadis sudah berlaki
-seperti gajah dng sengkela nya
+seperti gajah dengan sengkela nya
 seperti gajah masuk kampung
 seperti gergaji dua mata
 seperti gerundang yang kekeringan
-seperti gerup dng sisir
+seperti gerup dengan sisir
 seperti gula dalam mulut
 seperti gunting makan di ujung
 seperti harimau menyembunyikan kuku
@@ -1468,20 +1468,19 @@ seperti janggut pulang ke dagu
 seperti kambing dikupas hidup-hidup
 seperti kambing putus tali
 seperti katak ditimpa kemarau
-seperti kedangkan dng caping
+seperti kedangkan dengan caping
 seperti kelekatu masuk api
 seperti kera dapat bunga
-seperti kera dng monyet
+seperti kera dengan monyet
 seperti kerbau dicocok hidung
-seperti keroncor dng belangkas
+seperti keroncor dengan belangkas
 seperti kodok ditimpa kemarau
 seperti kucing dibawakan lidi
 seperti kuda lepas dari pingitan
-seperti kuda lepas dr pingitan
 seperti labu dibenam
 seperti lampu kekurangan minyak
 seperti lebah, mulut membawa madu, pantat membawa sengat
-seperti lepat dng daun
+seperti lepat dengan daun
 seperti lipas kudung
 seperti lonjak alu penumbuk padi
 seperti mayat ditegakkan
@@ -1500,18 +1499,18 @@ seperti parang bermata dua
 seperti pikat kehilangan mata
 seperti pinang dibelah dua
 seperti pinang pulang ke tampuknya
-seperti pinggan dng mangkuk salah sedikit hendak berantuk
+seperti pinggan dengan mangkuk salah sedikit hendak berantuk
 seperti pipit menelan jagung
 seperti polong kena sembur
 seperti pungguk merindukan bulan
-seperti rabuk dng api
+seperti rabuk dengan api
 seperti rusa kena tambat
 seperti rusa masuk kampung
-seperti santan dng tengguli
-seperti sayur dng rumput
+seperti santan dengan tengguli
+seperti sayur dengan rumput
 seperti sebuah biji sesat dalam rumput
 seperti sengkalan tak sudah
-seperti siang dng malam
+seperti siang dengan malam
 seperti tikus jatuh di beras
 seperti tikus masuk perangkap
 seperti tikus masuk rumah
@@ -1545,7 +1544,7 @@ sudah tahu peria pahit
 sudah terantuk, baru tengadah
 sudah terlalu hilir malam, apa hendak dikata lagi
 sudah terantuk baru tengadah
-sudah tidak sudu oleh angsa, baharu diberikan kpd itik
+sudah tidak sudu oleh angsa, baharu diberikan kepada itik
 sukar kaji pada orang alim, sukar uang pada orang kaya
 sukat air menjadi batu
 sukat penuh sudah
@@ -1580,7 +1579,7 @@ tak akan terlawan buaya menyelam air
 tak beras antah dikisik
 tak boleh bertemu roma
 tak emas bungkal diasah
-tak jauh rebung dr rumpun nya
+tak jauh rebung dari rumpun nya
 tak kan lari gunung dikejar, hilang kabut tampaklah dia
 tak lalu dandang di air, di gurun ditanjakkan
 tak lapuk di hujan, tak lekang di panas
@@ -1611,7 +1610,7 @@ tanduk di kepala tak dapat digelengkan
 tangan kanan jangan percaya akan tangan kiri
 tangan mencencang bahu memikul
 tangan menggenggam tangan
-tangguk lerek dng bingkainya
+tangguk lerek dengan bingkainya
 tangguk rapat, keruntung bubus
 tandang ke surau
 tandang membawa lapik
@@ -1656,7 +1655,7 @@ terbang bertumpu hinggap mencekam
 tercincang puar bergerak andilau
 tercubit paha kiri, paha kanan pun berasa sakit
 terdesak padang ke rimba
-terdorong gajah krn besarnya
+terdorong gajah karena besarnya
 terentak ruas ke buku
 tergantung tidak bertali
 terikat kaki tangan
