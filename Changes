@@ -1,5 +1,15 @@
 Revision history for Games-Word-Phraselist-Proverb-KBBI
 
+0.04    2016-01-13 (PERLANCAR)
+
+	- No functional changes.
+
+	- Move devscripts/ to WordList-Phrase-ID-Proverb-KBBI repo.
+
+	- To avoid duplication of efforts, now source the word list from
+	  WordList::Phrase::ID::Proverb::KBBI.
+
+
 0.03    2014-08-12 (SHARYANTO)
 
         - [data] Replace more abbreviations (dng, kpd, dp).
