@@ -1,5 +1,11 @@
 Revision history for Games-Word-Phraselist-Proverb-KBBI
 
+0.05    2016-01-13 (PERLANCAR)
+
+	- [Bugfix] Bump prereq version WordList::Phrase::ID::Proverb::KBBI
+	  -> 0.03 (requires all_words() from WordList 0.1.1) [CT].
+
+
 0.04    2016-01-13 (PERLANCAR)
 
 	- No functional changes.
